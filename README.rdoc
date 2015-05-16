@@ -11,7 +11,7 @@ ii)gem 'bson_ext'
 
 4)rails g  mongoid:config
 
-5)rails g scaffold employee name:string phoneno:intger
+5)rails g scaffold employee name:string phoneno:integer
 
 
 
