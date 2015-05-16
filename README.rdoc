@@ -3,6 +3,7 @@
 1)rails new samplemongo
 
 2)Gem file add these 2 gems
+
 i)gem 'mongoid', '~> 4', github: 'mongoid/mongoid'
 ii)gem 'bson_ext'
 
@@ -24,13 +25,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version--2.0.0
 
-* System dependencies
+* System dependencies--rails4.2.0
 
 * Configuration
 
-* Database creation
+* Database creation---Mongodb
 
 * Database initialization
 
