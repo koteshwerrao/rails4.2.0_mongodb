@@ -1,4 +1,19 @@
-== README
+== READM
+====Steps for creating new application in mongo
+1)rails new samplemongo
+2)Gem file add these 2 gems
+i)gem 'mongoid', '~> 4', github: 'mongoid/mongoid'
+ii)gem 'bson_ext'
+3)bundle install
+4)rails g  mongoid:config
+5)rails g scaffold employee name:string phoneno:intger
+
+
+
+
+
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
